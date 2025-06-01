@@ -1,5 +1,5 @@
 ## Hola 👋
-Yo estudio python y coin
+Yo estudio Blockchain
 
 ## tech stack ⚒️
-![My Skills](https://skillicons.dev/icons?i=py)
+![My Skills](https://skillicons.dev/icons?i=py,rust)
